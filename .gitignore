@@ -1,0 +1,3 @@
+# Ignorar archivos de entorno reales
+.env
+scripts/.env
